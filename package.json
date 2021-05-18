@@ -1,5 +1,6 @@
 {
   "name": "node-docker2",
+  "newrelic": "latest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "ronin-mocks": "^0.1.6",
-    "ronin-server": "^0.1.3"
+    "ronin-server": "^0.1.3",
+    "newrelic": "latest"
   }
 }
